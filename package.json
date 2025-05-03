@@ -1,0 +1,22 @@
+{
+  "name": "1-society",
+  "version": "1.0.0",
+  "description": "This Is A official website of 1 society roblox websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "JuanDevID"
+  },
+  "keywords": [
+    "web",
+    "websites",
+    "1society",
+    "1sos"
+  ],
+  "author": "Diego Escanor",
+  "license": "MIT"
+  }
+
